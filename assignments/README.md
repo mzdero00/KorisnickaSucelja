@@ -1,1 +1,1 @@
-This repository contains a assignments.
+This repository contains assignments.
